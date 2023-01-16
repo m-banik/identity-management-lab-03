@@ -1,0 +1,13 @@
+{
+  "name": "identity-management-lab-03",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest ./*"
+  },
+  "author": "Marcin Banik",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
